@@ -103,3 +103,4 @@ for room in rooms:
 else:
     print("\n🎉 You finished all rooms and survived the adventure!")
     player.show_status()
+##
